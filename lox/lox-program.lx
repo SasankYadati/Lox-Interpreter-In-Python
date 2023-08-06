@@ -1,0 +1,11 @@
+//abc
+!= !*+-/=<> <= == //ops
+() {} ({({})})
+"abcd"
+123.4
+120
+abcd = 123.0
+true
+/* multi
+line/**
+comment */
